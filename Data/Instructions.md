@@ -30,7 +30,8 @@ The contents listed below are and/or should be contained within Wokemath's datas
 * Language describing violence or gore
 
 ### Usually inoffensive identity-related terms
-* Gendered general honorifics (e.g. miss, -kun, Father)
+* Gendered general terms (e.g. lady, man, enby)
+* Gendered honorifics (e.g. miss, -kun, Father)
 * Gendered profession identifiers (e.g. actress, waitress, policeman)
 * Gendered animal identifiers (e.g. tom, stallion, hen)
 * Personal pronouns by tense (e.g. its, they, him)
